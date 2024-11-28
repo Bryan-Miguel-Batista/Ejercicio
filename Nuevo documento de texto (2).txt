@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<header>Ejercicio 1</header>
+	<meta>charset="URF-8"</meta>
+	
+</head>
+<body>
+	<a href="https://soundcloud.com/" target="_Blank">Soundcloud</a>
+	<a href="https://open.spotify.com/intl-es" target="_Blank">Spotify</a>
+	<a href="https://www.boomusica.com/" target="_Blank">Boomusica</a>
+
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<header>Ejercicio 1</header>
+	<meta>charset="URF-8"</meta>
+	
+</head>
+<body>
+	<p><b>Hola Mundo</b></p>
+	<!-- Se usa cuando quieres que una parte del texto sea mas llamtativa -->
+	<p><i>Hola Mundo</i></p>
+	<!-- Se usa Cuando quieres las palabras cursivas-->
+	<p><del>Hola Mundo</del></p>
+	<!-- Se usa cuando borras una parte del texto -->
+
+</body>
+</html>

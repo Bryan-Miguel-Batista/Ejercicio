@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<header>Ejercicio</header>
+	<meta>charset="URF-8"</meta>
+	
+</head>
+<body>
+	<ul>
+		<li><a href="esteequipo/imagenes.jpg">Primera imagen</a></li>
+		<li><a href="esteequipo/imagenes.jpg">Segunda imagen</a></li>
+		<li><a href="esteequipo/imagenes.jpg">Tercera imagen</a></li>
+		<li><a href="esteequipo/imagenes.jpg">Cuarta imagen</a></li>
+		<li><a href="esteequipo/imagenes.jpg">Quinta imagen</a></li>
+	</ul>
+	<ul>
+		<li><a href="Inicio.html"><img src="esteequipo/imagenes.jpg"></a></li>
+		<li><a href="acerca de.html"><img src="esteequipo/imagen.jpg"></a></li>
+		<li><a href="Servicios.html"><img src="esteequipo/imagenes15.jpg"></a></li>
+		<li><a href="Contacto.html"><img src="esteequipo/imagenes10.jpg"></a></li>
+	</ul>
+	<ul>
+		<li><img src="esteequipo/imagenes.jpg"><figcaption>La pera</figcaption><a href="tienda.com/pera">Comprar</li>
+		<li><img src="esteequipo/imagen.jpg"><figcaption>La Naranja</figcaption><a href="tienda.com/naranja">Comprar</li>
+		<li><img src="esteequipo/imagenes15.jpg"><figcaption>La Manzana</figcaption><a href="tienda.com/manzana">Comprar</li>
+		<li><img src="esteequipo/imagenes10.jpg"><figcaption>La Banana</figcaption><a href="tienda.com/banana">Comprar</li>
+		<li><img src="esteequipo/imagenes12.jpg"><figcaption>El limon</figcaption><a href="tienda.com/limon">Comprar</li>
+	</ul>
+</body>
+</html>

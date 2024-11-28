@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zxx">
+<head>
+	<header>Ejercicio 1</header>
+	<meta>charset="URF-8"</meta>
+	
+</head>
+<body>
+	<main>
+	<a href="#Introduccion">Introduccion</a>
+	<a href="#Contenido">Contenido</a>
+	<a href="#Conclusion">Conclusion</a>
+		<Section>
+			<article>
+			<h2 id="Introduccion">Introduccion</h2>
+			<p>Estar enamorado, amigos, es encontrar
+			Estar enamorado, amigos, es encontrar
+			el nombre justo a la vida.
+			Es dar al fin con las palabras que para hacer
+			frente a la muerte se precisa.
+			Es recobrar la llave oculta que abre la cárcel
+			en que el alma está cautiva.
+			</p>
+			</article>
+		</section>
+		<Section>
+			<article>
+			<h2 id="Contenido">Contenido</h2>
+			<p>Estar enamorado, amigos, es encontrar
+			Estar enamorado, amigos, es encontrar
+			el nombre justo a la vida.
+			Es dar al fin con las palabras que para hacer
+			frente a la muerte se precisa.
+			Es recobrar la llave oculta que abre la cárcel
+			en que el alma está cautiva.
+			</p>
+			</article>
+		</section>
+		<Section>
+			<article>
+			<h2 id="Conclusion">Conclusion</h2>
+			<p>Estar enamorado, amigos, es encontrar
+			Estar enamorado, amigos, es encontrar
+			el nombre justo a la vida.
+			Es dar al fin con las palabras que para hacer
+			frente a la muerte se precisa.
+			Es recobrar la llave oculta que abre la cárcel
+			en que el alma está cautiva.
+			</p>
+			</article>
+		</section>
+	</main>
+</body>
+</html>
